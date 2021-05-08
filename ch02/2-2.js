@@ -1,4 +1,3 @@
-
 function addMessage(element, message) {
     var messageElement = document.createElement("li");
     messageElement.textContent = message;
